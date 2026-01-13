@@ -1,0 +1,2 @@
+# .github
+agentic metallurgy description
