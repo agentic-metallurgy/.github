@@ -1,7 +1,5 @@
 ## 🛡️ Agentic Metallurgy
 
-Simple tools for the simple developer. Nothing clever. 
+Simple tools and proof-of-concepts by a simple developer. 
 
-Things that work, get you started, you can freely hack at.
-
-Feel free to ship an issue or a PR.
+Things that work, get you started, and you can freely hack at.
