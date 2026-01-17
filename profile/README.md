@@ -1,5 +1,5 @@
 ## 🛡️ Agentic Metallurgy
 
-Simple tools and proof-of-concepts by a simple developer. 
+Simple agentic tools by a simple engineer.
 
-Things that work, get you started, and you can freely hack at.
+Let's get you started building.
